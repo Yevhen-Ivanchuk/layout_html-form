@@ -8,6 +8,6 @@
   display: block;
 }
 
-label:not(:last-child) {
+.form-field:not(:last-child) {
   margin-bottom: 10px;
 }
